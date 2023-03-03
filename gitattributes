@@ -1,2 +1,2 @@
-*html linguist-detectable=false
-*r_studio linguist-detectable=true
+*.html linguist-detectable=false
+*.r linguist-detectable=true
